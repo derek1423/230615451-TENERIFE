@@ -1,0 +1,119 @@
+    1  mkdir linux_practice 
+    2  cd linux_practice 
+    3  touch notes.txt 
+    4  ls >> notes.txt 
+    5  cat notes.txt 
+    6  echo "Hello, Linux!" > notes.txt 
+    7  echo "This is a practical exam." >> notes.txt 
+    8  head -n 1 notes.txt 
+    9  tail -n 1 notes.txt 
+   10  mkdir subdir 
+   11  mv notes.txt subdir/
+   12  mv subdir practice_subdir 
+   13  cp practice_subdir/notes.txt .
+   14  date 
+   15  uptime 
+   16  du -sh ~
+   17  ssh -V 
+   18  php -v 
+   19  pkg install php 
+   20  mysql --version 
+   21  apache2 -v 
+   22  python --version 
+   23  java -version 
+   24  apache2 ctl -v 
+   25  pkg install pyhton 
+   26  pkg install mariadb 
+   27  apachectl -v 
+   28  pkg install apache2
+   29  apachectl -v 
+   30  pkg install php 
+   31  java version 
+   32  java -version 
+   33  ssh -V 
+   34  php -v 
+   35  mysql --version 
+   36  apache2 -v 
+   37  apachectl -v 
+   38  pyhton --version 
+   39  python --version 
+   40  pkg install python 
+   41  python --version 
+   42  java -version 
+   43  javactl -version 
+   44  pkg update 
+   45  pkg install openjdk-17 
+   46  java -version 
+   47  mysql --version 
+   48  gh repo clone <https://github.com/derek1423/230615451-TENERIFE
+   49  pkg update 
+   50  pkg install gh 
+   51  gh --version 
+   52  gh repo clone <https://github.ub.com/derekub.c1423/230615451-TENERIFE
+   53  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+   54  cd 230615451-TENERIFE
+   55  gh --version
+   56  cd ~
+   57  gh --version
+   58  ls
+   59  cd 230615451-TENERIFE
+   60  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+   61  ls
+   62  cd 230615451-TENERIFE
+   63  cd ~
+   64  gh --version
+   65  pkg install
+   66  pkg install gh
+   67  gh repo clone https://github.com/derek1423?230615451-TENERIFE
+   68  ls
+   69  cd 230615451-TENERIFE
+   70  ls
+   71  ls -la
+   72  cd 230<Tab>
+   73  ls -b
+   74  ls
+   75  230615451-TENERIFE
+   76  cd 230615451-TENERIFE
+   77  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+   78  cd 230615451-TENERIFE
+   79  ls
+   80  ls | grep 230615451-TENERIFE
+   81  cd 230615451-TENERIFE
+   82  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+   83  ls -la
+   84  ls | grep 230615451-TENERIFE
+   85  ls |ld 230615451-TENERIFE
+   86  pkg install binutils
+   87  ls -ld 230615451-TENERIFE
+   88  ls | grep 230615451-TENERIFE
+   89  ls -ld 230615451-TENERIFE
+   90  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+   91  ls -la
+   92  rm -rf 230615451-TENERIFE
+   93  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+   94  Cloning into '2306115451-TENERIFE'...
+   95  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+   96  cd 230615451-TENERIFE
+   97  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+   98  ls -la
+   99  ls
+  100  rm -rf 230615451-TENERIFE
+  101  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+  102  gh --version
+  103  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+  104  Cloning into '230615451-TENERIFE'...
+  105  gh auth login
+  106  gh auth status
+  107  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+  108  apt update
+  109  apt upgrade gh
+  110  git clone https://github.com/derek1423/230615451-TENERIFE
+  111  pkg install git
+  112  git clone https://github.com/derek1423/230615451-TENERIFE
+  113  gh auth login
+  114  gh auth status
+  115  gh repo clone https://github.com/derek1423/230615451-TENERIFE
+  116  git clone https://github.com/derek1423/230615451-TENERIFE
+  117  cd 230615451-TENERIFE
+  118  git checkout -b finalexam
+  119  history > exam_log.txt
